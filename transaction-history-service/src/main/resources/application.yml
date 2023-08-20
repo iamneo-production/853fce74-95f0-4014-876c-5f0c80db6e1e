@@ -16,7 +16,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/transaction_history_db?useSSL=false&createDatabaseIfNotExist=true
     username: root
-    password:
+    password: examly
   jpa:
     hibernate:
       ddl-auto: update
